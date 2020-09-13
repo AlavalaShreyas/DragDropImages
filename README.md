@@ -1,8 +1,8 @@
-Procedure to run Drag and Drop Images project,
+###Procedure to run Drag and Drop Images project,
 
-clone the repository
-run npm install
-yarn build
+Clone the repository <br />
+Run npm install <br />
+yarn build <br />
 yarn start
 
 You should be able to see the application running in port 3000.
