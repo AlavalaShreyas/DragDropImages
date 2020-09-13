@@ -1,3 +1,13 @@
+Procedure to run Drag and Drop Images project,
+
+clone the repository
+run npm install
+yarn build
+yarn start
+
+You should be able to see the application running in port 3000.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
